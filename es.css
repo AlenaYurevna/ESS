@@ -1,0 +1,48 @@
+body {
+    background-color: rgb(15, 35, 28);
+    color: rgb(223, 148, 8);
+    font-family: "Comic Sans MS";
+    font-size: 24px;
+}
+table {
+    width: 45%;
+    background-color: rgba(252, 250, 216, 0);
+    border-width: 1,5px;
+}
+td {
+    padding-left: 10px;
+    height: 100px;
+    border-color: rgb(11, 185, 98);
+    border-width: 1px;
+    border-style: solid;
+    text-align: center;
+
+}
+td.quest {
+    height: 90px;
+    background-color: rgba(241, 238, 185, 0.219);
+    color: rgb(255, 145, 1)
+}
+img {
+    border-radius: 1px;
+    width: 22%;
+    height: auto;
+    position: absolute;
+        left: 150px;
+        top: 260px;
+
+} 
+td.answer {
+    height: 60px;
+    
+}
+div {
+    text-align: left;
+    
+}
+div.help {
+    color: rgb(125, 179, 55);
+    font-size: 16px;
+    margin-bottom: 20px;
+    padding-left: 150px;
+}
