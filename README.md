@@ -1,2 +1,1 @@
-Экспертная система\n
-сайт - https://alenayurevna.github.io/ESS/ 
+Сайт экспертной системы - https://alenayurevna.github.io/ESS/ 
